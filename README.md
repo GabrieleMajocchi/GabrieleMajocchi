@@ -48,6 +48,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabriele-majocchi-64185127a/)
 <!-- [![Site](https://img.shields.io/badge/Netlify-00C7B7.svg?logo=Netlify&logoColor=white)](www.gabrielemajocchi.it) -->
 </br>
+<img src="coding.gif">
 </div>
 
 ---
